@@ -33,9 +33,10 @@ Our project presents **LMF-CNN**, a lightweight multi-frame convolutional neural
 
 ## 🖼 Visual Results
 ![Results](media/Group%201.png)
-
+![Results](media/Group%208.png)
+![Results](media/Group%209.png)
 | Comparison | Description |
 |------------|-------------|
-| `media/Group 1.png` | Side-by-side comparison of outputs from three model variants |
+| `media/Group.png` | Side-by-side comparison of outputs from three model variants |
 | `media/lr_output_video.mp4` & `media/hr_output_video.mp4` | Video comparison between low-resolution input and high-resolution output |
 

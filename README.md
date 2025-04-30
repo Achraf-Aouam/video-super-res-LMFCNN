@@ -32,6 +32,7 @@ Our project presents **LMF-CNN**, a lightweight multi-frame convolutional neural
 ---
 
 ## 🖼 Visual Results
+![Results](media/Group1.png)
 
 | Comparison | Description |
 |------------|-------------|

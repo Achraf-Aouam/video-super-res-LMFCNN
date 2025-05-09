@@ -1,5 +1,7 @@
 # Video Super-Resolution Using Multi-Frame CNNs (LMF-CNN)
 
+credit: Achraf Aouam, Hiba Aouahchi, Achraf Aouam, Yassine Laajil, Yousra Chtouki
+
 This repository accompanies the research paper titled **"Video Super-Resolution Using Multi-Frame CNNs: A Lightweight Approach for Real-Time Enhancement"**.
 
 Our project presents **LMF-CNN**, a lightweight multi-frame convolutional neural network model that enhances extremely low-resolution videos (e.g., 120p) up to high resolution (480p and above) in real-time. The proposed architecture is designed for deployment on consumer-grade hardware and mobile NPUs, eliminating the need for computationally expensive optical flow or motion compensation techniques.

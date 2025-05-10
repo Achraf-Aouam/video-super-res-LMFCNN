@@ -45,3 +45,5 @@ Our project presents **LMF-CNN**, a lightweight multi-frame convolutional neural
 | `media/Group.png` | Side-by-side comparison of outputs from three model variants |
 | `media/lr_output_video.mp4` & `media/hr_output_video.mp4` | Video comparison between low-resolution input and high-resolution output |
 
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
